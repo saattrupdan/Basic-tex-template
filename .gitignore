@@ -1,0 +1,6 @@
+*.vim
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
